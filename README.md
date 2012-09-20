@@ -1,0 +1,1 @@
+Playing around with XHTML Mobile Profile for creating feature phone friendly websites
